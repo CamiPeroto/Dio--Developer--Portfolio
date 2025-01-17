@@ -44,13 +44,23 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Trilha de CSS",
+      "url": "https://camiperoto.github.io/Trilha-Css-Desafio1/",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto-Youtube-Page",
+      "url": "https://camiperoto.github.io/Projeto-Youtube-Page",
+      "github": true
+    },
+    {
+      "name": "Poke-Dio",
+      "url": "https://camiperoto.github.io/Poke-Dio/",
+      "github": true
+    },
+    {
+      "name": "Dio-Wiki",
+      "url": "https://camiperoto.github.io/Dio-Wiki/",
       "github": true
     }
   ],
