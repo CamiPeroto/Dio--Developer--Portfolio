@@ -38,7 +38,7 @@
     height: 1.5rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('/assets/imgs/icons/arrow-down.svg');
+    background-image: url('assets/imgs/icons/arrow-down.svg');
     transition: .4s;
 
 }
