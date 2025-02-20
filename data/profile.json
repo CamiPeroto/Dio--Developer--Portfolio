@@ -24,12 +24,12 @@
         "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/laravel.png"
       },
       {
-        "name": "Github",
-        "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/github.png"
+        "name": "MySql",
+        "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/msql.png"
       },
       {
-        "name": "MySql",
-        "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/mysql.png"
+        "name": "Github",
+        "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
