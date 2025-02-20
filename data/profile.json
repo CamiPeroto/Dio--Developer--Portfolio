@@ -19,6 +19,10 @@
         "name": "Js",
         "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/js.png"
       },
+       {
+        "name": "Laravel",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
+      },
       {
         "name": "Github",
         "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/github.png"
