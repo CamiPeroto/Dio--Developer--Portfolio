@@ -29,11 +29,11 @@
       },
        {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/light-react.png"
       },
        {
         "name": "Typescript",
-        "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/typescript.png"
+        "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/light-ts.png"
       },
       {
         "name": "MySql",
