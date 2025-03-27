@@ -24,6 +24,18 @@
         "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/laravel.png"
       },
       {
+        "name": "Node",
+        "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/node.png"
+      },
+       {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/react.png"
+      },
+       {
+        "name": "Typescript",
+        "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/typescript.png"
+      },
+      {
         "name": "MySql",
         "logo": "https://raw.githubusercontent.com/camiperoto/js-developer-portfolio/main/data/imgs/msql.png"
       },
